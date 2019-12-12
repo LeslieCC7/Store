@@ -1,0 +1,14 @@
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\EntityFramework.dll
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\EntityFramework.xml
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.csprojAssemblyReference.cache
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.Properties.Resources.resources
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.csproj.GenerateResource.cache
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.csproj.CoreCompileInputs.cache
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.csproj.CopyComplete
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\curso.STKTRAINNING\source\repos\tienda\tienda\obj\Debug\tienda.pdb
